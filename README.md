@@ -14,10 +14,10 @@ Junior Web Developer | Apasionado por la ciberseguridad y las redes
 
 ## 🏅 Certificaciones
 
-- **C1 Inglés – Test of Interactive English (Irlanda, 2025)**  
+- **C1 Inglés – Cork English Academy (Irlanda) **  
   [📄 Ver certificado (PDF)](https://github.com/RodM33/deepweb/blob/main/TIE%20Rodrigo%20.pdf)
 
-- **Inglés – Cork English Academy (Irlanda)**  
+- **Test of Interactive English (Irlanda, 2025) **  
   [📄 Ver certificado (PDF)](https://github.com/RodM33/RodM33/blob/main/Certificate%20Rodrigo%20.pdf)  
   <sub>Prueba oficial de inglés realizada y obtenida en Irlanda.</sub>
 
