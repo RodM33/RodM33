@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rodrigo (RodM33)
 
-<!--
-**RodM33/RodM33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer | Apasionado por la ciberseguridad y las redes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+- [Misterios Ocultos](https://github.com/RodM33/deepweb)  
+  [Ver online](https://rodm33.github.io/deepweb/)  
+  *Sitio web de temática paranormal y fenómenos extraños.*
+
+---
+
+## 🏅 Certificados
+
+- **C1 Inglés – Test of Interactive English (Irlanda, 2025)**  
+  [Ver certificado (PDF)](https://github.com/RodM33/deepweb/blob/main/TIE%20Rodrigo%20.pdf)
+
+---
+
+## 💻 Tecnologías y herramientas
+
+- HTML5 / CSS3
+- Git & GitHub
+-
+
+---
+
+## 📫 Contacto
+
+- rodrigo.sef1@gmail.com
+
+---
+
+> *Portafolio personal creado con fines de aprendizaje y para mostrar mi progreso como desarrollador.*
